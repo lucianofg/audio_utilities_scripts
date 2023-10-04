@@ -1,0 +1,10 @@
+BasedOnStyle: Google
+IndentWidth: 4
+AccessModifierOffset: -4
+SortIncludes: false
+AllowShortFunctionsOnASingleLine: Empty
+BinPackArguments: false
+BinPackParameters: false
+ExperimentalAutoDetectBinPacking: false
+AllowAllParametersOfDeclarationOnNextLine: false
+ColumnLimit: 120
